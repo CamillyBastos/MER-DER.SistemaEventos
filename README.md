@@ -1,3 +1,3 @@
 # MER-DER.SistemaEventos
 
-<img src= "./Sistemas de Eventos.PNG">
+<img src= "./Sistema de Eventos.PNG">
